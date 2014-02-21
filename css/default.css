@@ -1,0 +1,63 @@
+/*
+//=============================================================================
+// Inline Tweets
+//
+// Released under the GNU General Public Licence v2
+// http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+//
+// Please refer all questions/requests to: mdjekic@gmail.com
+//
+// This is an add-on for WordPress
+// http://wordpress.org/
+// =============================================================================
+
+// =============================================================================
+// This piece of software is distributed in the hope that it will be useful, but
+// WITHOUT ANY WARRANTY, without even the implied warranty of MERCHANTABILITY or
+// FITNESS FOR A PARTICULAR PURPOSE.
+// =============================================================================
+
+// =============================================================================
+// Default Styles
+// =============================================================================
+*/
+
+.inline_tweets_error {
+    color: red;
+}
+
+.inline_tweet {
+    width: 100%;
+}
+
+.inline_tweet_author {
+    font-weight: bold;
+}
+
+.inline_tweets_avatar {
+    float: left;
+    margin-right: 5px;
+}
+
+.inline_tweets_avatar img {
+    border: 3px solid whitesmoke;
+    border-radius: 30px;
+}
+
+.inline_tweets_tag {
+    font-weight: bold;
+}
+
+.inline_tweets_timestamp {
+    float: right;
+    font-style: italic;
+}
+
+.inline_tweets_ul {
+    padding-left: 0px;
+}
+
+li.inline_tweet {
+    list-style: none;
+    margin-bottom: 35px;
+}

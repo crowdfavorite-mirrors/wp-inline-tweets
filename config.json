@@ -1,0 +1,5 @@
+{
+    "styles": ["default"],
+
+    "time_formats": ["m/d/Y","m-d-Y","M d Y","d/m/Y","d-m-Y","d M Y","m Y","M Y","M d","d M"]
+}
